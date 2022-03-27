@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9a6525d-62e1-4350-9ec3-e512ac2b9e7c": {
+      "ProjectGuid": "a9a6525d-62e1-4350-9ec3-e512ac2b9e7c",
+      "DisplayName": "FilesAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
